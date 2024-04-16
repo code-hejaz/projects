@@ -1,4 +1,4 @@
 # projects
 DBMS project
 <br>
-Author: Hejaz Ahmad Faiz
+Author: Hejaz Ahmad
